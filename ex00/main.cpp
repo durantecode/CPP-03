@@ -6,7 +6,7 @@
 /*   By: ldurante <ldurante@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/07 10:42:40 by ldurante          #+#    #+#             */
-/*   Updated: 2022/04/07 23:11:17 by ldurante         ###   ########.fr       */
+/*   Updated: 2022/05/19 16:42:23 by ldurante         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 int main(void)
 {
-	ClapTrap dur("Máquina");
+	ClapTrap dur("Dur");
 
 	dur.attack("Thor");
 	dur.takeDamage(6);
